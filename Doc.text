@@ -1,0 +1,12 @@
+Dom :Document Object Model
+Document=>Html Document
+Object-elements like h1,head,body
+Model-Complete structure document 
+
+We can change DOM values using document.getElementById(),document.getElementsByClassName(),document.createElement()
+,textContent,querySelector
+------------------------
+Virtual Dom : Virtual Dom is a replica of real Dom.
+In React,for every DOM object,there is a corresponding 'virtual DOM object.like a lightweight copy A virtual DOM object has the same properties 
+as real DOM object but it lacks the real thing's power 
+to directly change what's on the screen.
